@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/adarsh_nm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/adarsh_nm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/adarshnm02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/adarshnm02" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19396766/adarsh-nm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19396766/adarsh-nm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/adarsh_nm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adarsh_nm/" height="30" width="40" /></a>
+<a href="[https://dev.to/https://dev.to/adarsh_nm](https://dev.to/adarsh_nm)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/adarsh_nm" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/adarshnm02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/adarshnm02" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/https://stackoverflow.com/users/19396766/adarsh-nm](https://stackoverflow.com/users/19396766/adarsh-nm)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19396766/adarsh-nm" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/https://leetcode.com/adarsh_nm/](https://leetcode.com/Adarsh_nm/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adarsh_nm/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
