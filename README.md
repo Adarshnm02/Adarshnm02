@@ -1,23 +1,83 @@
-<h1 align="center">Hi 👋, I'm Adarsh nm</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hello, I'm Adarsh N. M. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-- 🌱 I’m currently learning **MERN stack**
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://adarshnm02.github.io/portfolio/meyawo-1.0.0/](https://adarshnm02.github.io/portfolio/meyawo-1.0.0/)
-
-- 💬 Ask me about **Js,React,MongoDB,Node.js & Express**
-
-- 📫 How to reach me **adarshnm02@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://dev.to/https://dev.to/adarsh_nm](https://dev.to/adarsh_nm)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/adarsh_nm" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/adarshnm02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/adarshnm02" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/https://stackoverflow.com/users/19396766/adarsh-nm](https://stackoverflow.com/users/19396766/adarsh-nm)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19396766/adarsh-nm" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/https://leetcode.com/adarsh_nm/](https://leetcode.com/Adarsh_nm/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adarsh_nm/" height="30" width="40" /></a>
+<p align="center">
+  <em>
+    Passionate about building end-to-end web solutions with <strong>JavaScript</strong>, <strong>React</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>. 
+    <br />
+    Always learning, experimenting, and improving.
+  </em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshnm02&show_icons=true&locale=en&layout=compact" alt="adarshnm02" /></p>
+## 🙋‍ About Me
+
+- 🌱 I’m currently expanding my skills in the **MERN stack** (MongoDB, Express, React, Node.js)  
+- 💼 Working on various personal and collaborative projects to sharpen my full-stack expertise  
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, and other web technologies**  
+- ⚡ Fun fact: I love exploring new libraries and frameworks, and I’m always up for a coding challenge!  
+
+---
+
+## 🚀 Projects & Portfolio
+
+1. **Portfolio Website**  
+   - **Live**: [adarshnm.vercel.app](https://adarshnm.vercel.app/)  
+   - Showcases my major projects, including TechWiz, DishDiary, and more.  
+   - Built with **React**, **Tailwind CSS**, and deployed on **Vercel**.
+
+2. **TechWiz E-commerce**  
+   - **Repo**: [TechWiz](https://github.com/Adarshnm02/TechWiz)  
+   - A full-featured e-commerce solution with secure payment (Razorpay), coupons, and user authentication.  
+   - Built using **Node.js**, **Express**, **MongoDB**, and **EJS**.
+
+3. **DishDiary**  
+   - **Repo**: [DishDiary](https://github.com/Adarshnm02/DishDiary)  
+   - A recipe discovery platform with category-based browsing, detailed cooking instructions, and search functionality.  
+   - Built using **React**, **Tailwind CSS**, and the **MealDB API**.
+
+*(Check out my GitHub for other projects like **OLX Clone**, **Netflix Clone**, and **Blog Platform**!)*
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4%2B-blue?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-18-blue?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18-green?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4-lightgrey?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6-green?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-blue?style=flat&logo=tailwindcss&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/adarshnm02" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Adarshnm02-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
+<a href="https://dev.to/adarsh_nm" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-Adarsh_nm-black?style=flat&logo=dev.to" alt="devto" /></a>
+<a href="https://stackoverflow.com/users/19396766/adarsh-nm" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-Adarsh--nm-FE7A16?style=flat&logo=stackoverflow&logoColor=white" alt="stackoverflow" /></a>
+<a href="https://leetcode.com/Adarsh_nm/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-Adarsh__nm-orange?style=flat&logo=leetcode&logoColor=white" alt="leetcode" /></a>
+</p>
+
+**Email**: [adarshnm02@gmail.com](mailto:adarshnm02@gmail.com)
+
+---
+
+### Thank you for visiting!
+
+Feel free to reach out if you’d like to collaborate on a project, discuss new ideas, or just say hello. Let’s create something amazing together!
