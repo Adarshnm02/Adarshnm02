@@ -66,7 +66,7 @@
 ---
 ## 📄 Resume
 
-[Download my Resume](./Adarsh_NM Full-stack Developer.pdf)
+[Download my Resume](./Adarsh_NM.pdf)
 
 ---
 ## 📫 Connect with Me
